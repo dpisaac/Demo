@@ -12,6 +12,10 @@ namespace hi
 
             num = 5 + 5;
             Console.WriteLine("{0}", num);
+
+            num = num + 345;
+            Console.WriteLine("{0}", num);
+
         }
     }
 }
